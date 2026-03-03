@@ -1,4 +1,4 @@
-# Plunder
+# Plunder — The Cheater's Booty!
 
 A modular Terraria companion mod for the [TerrariaModder](https://github.com/terraria-modder) platform. Plunder provides a suite of cheat features, quality-of-life tools, and item management — all accessible through an in-game draggable panel or configurable keybinds.
 
